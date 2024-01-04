@@ -23,17 +23,17 @@
 </div>
 
 ### :cowboy_hat_face: Contributions
-<a href="https://app.daily.dev/mandeep_dhakal"><img src="https://github.com/mandeep111/mandeep111/blob/main/devcard.svg?r=y8v" width="200" alt="Mandeep Dhakal's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mandeep111&theme=onedark&hide_border=true&border_radius=5)](https://github.com/mandeep111/mandeep111)
+<a href="https://app.daily.dev/mandeep_dhakal"><img src="https://github.com/mandip-dhakal/mandip-dhakal/blob/main/devcard.svg?r=y8v" width="200" alt="Mandeep Dhakal's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mandip-dhakal&theme=onedark&hide_border=true&border_radius=5)](https://github.com/mandip-dhakal/mandip-dhakal)
 
 ### ⚡Stats and Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep111&langs_count=5&theme=onedark)](https://github.com/mandeep111/mandeep111)&nbsp;&nbsp;
-[![Mandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandeep111&show_icons=true&theme=onedark)](https://github.com/mandeep111/mandeep111)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandip-dhakal&langs_count=5&theme=onedark)](https://github.com/mandip-dhakal/mandip-dhakal)&nbsp;&nbsp;
+[![Mandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandip-dhakal&show_icons=true&theme=onedark)](https://github.com/mandip-dhakal/mandip-dhakal)
 
 <div style="position: relative;">
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mandeep111/mandeep111/blob/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mandeep111/mandeep111/blob/main/dist/github-snake.svg" /> -->
-  <img src="https://github.com/mandeep111/mandeep111/blob/main/dist/github-snake-dark.svg" alt="Snake Animation" style="position: absolute; top: 0; left: 0; transform-origin: bottom left;" />
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mandip-dhakal/mandip-dhakal/blob/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mandip-dhakal/mandip-dhakal/blob/main/dist/github-snake.svg" /> -->
+  <img src="https://github.com/mandip-dhakal/mandip-dhakal/blob/main/dist/github-snake-dark.svg" alt="Snake Animation" style="position: absolute; top: 0; left: 0; transform-origin: bottom left;" />
 </div>
 
 
