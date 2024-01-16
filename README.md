@@ -25,7 +25,7 @@
 ### :cowboy_hat_face: Contributions
 <a href="https://app.daily.dev/mandeep_dhakal"><img src="https://github.com/mandeep111/mandeep111/blob/main/devcard.svg?r=y8v" width="200" alt="Mandeep Dhakal's Dev Card"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mandip-dhakal&theme=onedark&hide_border=true)](https://github.com/mandip-dhakal/mandip-dhakal)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mandip-dhakal&theme=onedark&hide_border=true&border_radius=5)](https://github.com/mandip-dhakal/mandip-dhakal)
 
 ### ⚡Stats and Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandip-dhakal&langs_count=5&theme=onedark)](https://github.com/mandip-dhakal/mandip-dhakal)&nbsp;&nbsp;
